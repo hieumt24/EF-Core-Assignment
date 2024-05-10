@@ -1,0 +1,17 @@
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Infrastructure.deps.json
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Infrastructure.runtimeconfig.json
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Infrastructure.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Infrastructure.pdb
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Domain.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\bin\Debug\net8.0\Assingment_EFCore.Domain.pdb
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.csproj.AssemblyReference.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.AssemblyInfoInputs.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.AssemblyInfo.cs
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingme.4DB31CF4.Up2Date
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\refint\Assingment_EFCore.Infrastructure.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.pdb
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\Assingment_EFCore.Infrastructure.genruntimeconfig.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Infrastructure\obj\Debug\net8.0\ref\Assingment_EFCore.Infrastructure.dll

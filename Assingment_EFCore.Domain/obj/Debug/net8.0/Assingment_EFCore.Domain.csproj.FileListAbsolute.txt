@@ -1,0 +1,11 @@
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\bin\Debug\net8.0\Assingment_EFCore.Domain.deps.json
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\bin\Debug\net8.0\Assingment_EFCore.Domain.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\bin\Debug\net8.0\Assingment_EFCore.Domain.pdb
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.AssemblyInfoInputs.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.AssemblyInfo.cs
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.csproj.CoreCompileInputs.cache
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\refint\Assingment_EFCore.Domain.dll
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\Assingment_EFCore.Domain.pdb
+D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.Domain\obj\Debug\net8.0\ref\Assingment_EFCore.Domain.dll

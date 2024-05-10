@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assingment_EFCore.Domain", "Assingment_EFCore.Domain\Assingment_EFCore.Domain.csproj", "{6EA4F2CA-96BB-46F4-A58D-4C4B855E2920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assingment_EFCore.Infrastructure", "Assingment_EFCore.Infrastructure\Assingment_EFCore.Infrastructure.csproj", "{F5D58CF9-ACE5-4627-BF94-885E5340788E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA4F2CA-96BB-46F4-A58D-4C4B855E2920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA4F2CA-96BB-46F4-A58D-4C4B855E2920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA4F2CA-96BB-46F4-A58D-4C4B855E2920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA4F2CA-96BB-46F4-A58D-4C4B855E2920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D58CF9-ACE5-4627-BF94-885E5340788E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D58CF9-ACE5-4627-BF94-885E5340788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D58CF9-ACE5-4627-BF94-885E5340788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D58CF9-ACE5-4627-BF94-885E5340788E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29511BF-47DE-4B9A-984E-C02A2415DC8E}
+	EndGlobalSection
+EndGlobal
