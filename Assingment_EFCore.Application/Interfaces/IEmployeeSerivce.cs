@@ -8,5 +8,11 @@ namespace Assingment_EFCore.Application.Interfaces
         Task<CreateEmployeeResponse> CreateEmployee(CreateEmployeeRequest request);
 
         Task<GetAllEmployeeResponse> GetAllEmployee();
+
+        Task<CreateEmployeeResponse> UpdateEmployee(Guid id, CreateEmployeeRequest request);
+
+        Task<bool> DeleteEmployee(Guid id);
+
+        Task<CreateEmployeeResponse> GetEmployeeById(Guid id);
     }
 }

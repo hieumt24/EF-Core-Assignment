@@ -10,8 +10,6 @@ namespace Assingment_EFCore.Application.Models.DTOs
 
         public Guid DepartmentId { get; set; }
 
-        public Salary Salary { get; set; }
-
         public DateTime JoinedDate { get; set; }
 
         public EmployeeDTO(Employee employee)
@@ -19,7 +17,6 @@ namespace Assingment_EFCore.Application.Models.DTOs
             Id = employee.Id;
             Name = employee.Name;
             DepartmentId = employee.DepartmentId;
-            Salary = employee.Salary;
             JoinedDate = employee.JoinedDate;
         }
     }

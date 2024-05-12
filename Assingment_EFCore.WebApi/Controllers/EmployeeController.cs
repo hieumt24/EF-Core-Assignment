@@ -31,5 +31,29 @@ namespace Assingment_EFCore.WebApi.Controllers
             var response = await _employeeSerivce.CreateEmployee(employeeRequest);
             return Ok(response);
         }
+
+        [HttpPut]
+        [Route("employee")]
+        public async Task<ActionResult<CreateEmployeeResponse>> UpdateEmployee(Guid id, [FromBody] CreateEmployeeRequest employeeRequest)
+        {
+            var response = await _employeeSerivce.UpdateEmployee(id, employeeRequest);
+            return Ok(response);
+        }
+
+        [HttpGet]
+        [Route("employee/{id}")]
+        public async Task<ActionResult<CreateEmployeeResponse>> GetEmployeeById(Guid id)
+        {
+            var response = await _employeeSerivce.GetEmployeeById(id);
+            return Ok(response);
+        }
+
+        [HttpDelete]
+        [Route("employee")]
+        public async Task<ActionResult<bool>> DeleteEmployee(Guid id)
+        {
+            var response = await _employeeSerivce.DeleteEmployee(id);
+            return Ok(response);
+        }
     }
 }
