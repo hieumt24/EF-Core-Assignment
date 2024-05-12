@@ -17,16 +17,10 @@ namespace Assingment_EFCore.WebApi
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true)
                 .Build();
-            builder.Services.AddDbContext<LibraryDbContext>();
             Application.DependencyInjections.ConfigureServices(builder.Services);
             Infrastructure.DependencyInjections.ConfigureServices(builder.Services, appSettings);
-            builder.Services.AddDbContext<LibraryDbContext>(options =>
-            {
-                options.UseSqlServer(appSettings.GetConnectionString("DefaultConnection"));
-            });
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
@@ -41,7 +35,7 @@ namespace Assingment_EFCore.WebApi
             }
 
             app.UseAuthorization();
-
+            app.UseHttpsRedirection();
             app.MapControllers();
             using (var scope = app.Services.CreateScope())
             {
