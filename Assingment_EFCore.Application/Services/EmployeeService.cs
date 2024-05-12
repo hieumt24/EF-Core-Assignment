@@ -27,8 +27,8 @@ namespace Assingment_EFCore.Application.Services
             {
                 Name = request.Name,
                 DepartmentId = request.DepartmentId,
-                Salary = request.Salary,
-                JoinedDate = request.JoinedDate
+                JoinedDate = request.JoinedDate,
+                IsDeleted = false
             });
 
             await _unitOfWork.SaveChangesAsync();

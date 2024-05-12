@@ -13,9 +13,7 @@ namespace Assingment_EFCore.Application.Models.Requests
         public Guid DepartmentId { get; set; }
 
         [Required]
-        public Salary Salary { get; set; }
-
-        [Required]
+        [DataType(DataType.Date)]
         public DateTime JoinedDate { get; set; }
     }
 }
