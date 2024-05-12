@@ -40,23 +40,33 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("f598c41b-1fda-4df6-b2b8-65a98e53b153"),
+                            Id = new Guid("528e8dc9-6d8a-435b-8170-bb017a1e6ca8"),
                             Name = "Software Development"
                         },
                         new
                         {
-                            Id = new Guid("ee670359-0999-4e80-91b5-51cd5c4cff7a"),
+                            Id = new Guid("c4d0b1e2-f768-4367-8475-c026a5983df9"),
                             Name = "Finance"
                         },
                         new
                         {
-                            Id = new Guid("13496720-ca1d-43b3-91e0-059a6c4002f7"),
+                            Id = new Guid("8914cd02-440b-482d-9418-4f4616647525"),
                             Name = "Accountant"
                         },
                         new
                         {
-                            Id = new Guid("8489dc60-4588-42cc-b1df-e2fa38a942e3"),
+                            Id = new Guid("af9c551a-3c83-4d2a-8aff-123dfcf8b660"),
                             Name = "HR"
+                        },
+                        new
+                        {
+                            Id = new Guid("a14b8840-0115-46e6-b80f-abe78a6be11a"),
+                            Name = "Marketing"
+                        },
+                        new
+                        {
+                            Id = new Guid("5e1c8967-b005-49cc-98f8-9569f9fab8a9"),
+                            Name = "Sales"
                         });
                 });
 
@@ -68,6 +78,9 @@ namespace Assingment_EFCore.Infrastructure.Migrations
 
                     b.Property<Guid>("DepartmentId")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("JoinedDate")
                         .HasColumnType("datetime2");

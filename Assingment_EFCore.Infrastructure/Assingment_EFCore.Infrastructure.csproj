@@ -13,10 +13,12 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="NLog" Version="5.3.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.11" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Assingment_EFCore.Domain\Assingment_EFCore.Domain.csproj" />
+    <ProjectReference Include="..\Assingment_EFCore.Application\Assingment_EFCore.Application.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,6 @@
 ﻿using Assingment_EFCore.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace Assingment_EFCore.Infrastructure.Data
 {
@@ -11,10 +12,12 @@ namespace Assingment_EFCore.Infrastructure.Data
         public DbSet<ProjectEmployee> ProjectEmployees { get; set; }
         public DbSet<Salary> Salaries { get; set; }
 
+        public LibraryDbContext(DbContextOptions<LibraryDbContext> options) : base(options)
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-SAFBF06\\HIEUMT;database=NashTech_EFCore;" +
-                        "uid=sa;password=123456;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -46,7 +49,9 @@ namespace Assingment_EFCore.Infrastructure.Data
                  new Department { Id = Guid.NewGuid(), Name = "Software Development" },
                  new Department { Id = Guid.NewGuid(), Name = "Finance" },
                  new Department { Id = Guid.NewGuid(), Name = "Accountant" },
-                 new Department { Id = Guid.NewGuid(), Name = "HR" }
+                 new Department { Id = Guid.NewGuid(), Name = "HR" },
+                 new Department { Id = Guid.NewGuid(), Name = "Marketing" },
+                 new Department { Id = Guid.NewGuid(), Name = "Sales" }
                );
         }
     }

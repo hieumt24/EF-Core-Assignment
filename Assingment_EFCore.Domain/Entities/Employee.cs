@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Assingment_EFCore.Domain.Core.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace Assingment_EFCore.Domain.Entities
 {
-    public class Employee
+    public class Employee : BaseEntity, ISoftDeleteEntity
     {
+        [Key]
         public Guid Id { get; set; }
 
         [Required]
@@ -18,5 +20,7 @@ namespace Assingment_EFCore.Domain.Entities
 
         [Required]
         public DateTime JoinedDate { get; set; }
+
+        public bool IsDeleted { get; set; }
     }
 }

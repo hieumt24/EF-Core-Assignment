@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FjvsrX2CzwRoqk3NIOCa0lneiotW0vNL8TbYoaY0WC3KE3c7EjQzzT9ROnclFjhAFHoVM6z3515bPcgI3Dpglw==",
+  "dgSpecHash": "80jsi/M+CznJUUx4qxXG+UqWjnNGZQXvxq6EP5Blw/swfzb2LuKscaMsQoTzaKhJEbEEIbHmZigg9S5ZElYpDQ==",
   "success": true,
   "projectFilePath": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,9 @@
     "C:\\Users\\hieum\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\hieum\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\hieum\\.nuget\\packages\\nlog.extensions.logging\\5.3.11\\nlog.extensions.logging.5.3.11.nupkg.sha512",
+    "C:\\Users\\hieum\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.11\\nlog.web.aspnetcore.5.3.11.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

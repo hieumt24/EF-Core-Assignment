@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Assingment_EFCore.Domain.Core.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace Assingment_EFCore.Domain.Entities
 {
-    public class Department
+    public class Department : BaseEntity
     {
         public Guid Id { get; set; }
 

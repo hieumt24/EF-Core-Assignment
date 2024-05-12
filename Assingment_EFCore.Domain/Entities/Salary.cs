@@ -1,9 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using Assingment_EFCore.Domain.Core.Models;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Assingment_EFCore.Domain.Entities
 {
-    public class Salary
+    public class Salary : BaseEntity
     {
         public Guid Id { get; set; }
 
