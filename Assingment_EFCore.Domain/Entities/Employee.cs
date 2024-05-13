@@ -19,6 +19,7 @@ namespace Assingment_EFCore.Domain.Entities
         public Salary Salary { get; set; }
 
         [Required]
+        [DataType(DataType.Date)]
         public DateTime JoinedDate { get; set; }
 
         public bool IsDeleted { get; set; }

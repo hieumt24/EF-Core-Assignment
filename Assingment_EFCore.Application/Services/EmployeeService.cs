@@ -12,7 +12,7 @@ namespace Assingment_EFCore.Application.Services
     public class EmployeeService : IEmployeeSerivce
     {
         public readonly IUnitOfWork _unitOfWork;
-        private readonly ILoggerService _loggerService;
+        public readonly ILoggerService _loggerService;
 
         public EmployeeService(IUnitOfWork unitOfWork, ILoggerService loggerService)
         {
@@ -20,7 +20,7 @@ namespace Assingment_EFCore.Application.Services
             _loggerService = loggerService;
         }
 
-        public async Task<CreateEmployeeResponse> CreateEmployee(CreateEmployeeRequest request)
+        public async Task<EmployeeResponse> CreateEmployee(EmployeeRequest request)
         {
             var employee = await _unitOfWork.Repository<Employee>().AddAsync(new Employee
             {
@@ -33,7 +33,7 @@ namespace Assingment_EFCore.Application.Services
             await _unitOfWork.SaveChangesAsync();
 
             _loggerService.LogInfo("New user created successfully");
-            return new CreateEmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Add new employe successfully" };
+            return new EmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Add new employe successfully" };
         }
 
         public async Task<bool> DeleteEmployee(Guid id)
@@ -51,30 +51,47 @@ namespace Assingment_EFCore.Application.Services
 
         public async Task<GetAllEmployeeResponse> GetAllEmployee()
         {
-            var EmployeesSpec = EmployeeSpecifications.GetAllEmployeesSpec();
-            var employees = await _unitOfWork.Repository<Employee>().ListAsync(EmployeesSpec);
+            //var EmployeesSpec = EmployeeSpecifications.GetAllEmployeesSpec();
+            //var employees = await _unitOfWork.Repository<Employee>().ListAsync(EmployeesSpec);
+            var employees = await _unitOfWork.Repository<Employee>().ListAllAsync();
             return new GetAllEmployeeResponse() { Data = employees.Select(x => new EmployeeDTO(x)).ToList() };
         }
 
-        public async Task<CreateEmployeeResponse> GetEmployeeById(Guid id)
+        public Task<List<GetAllEmployeeResponse>> GetAllEmployeesWithDepartments()
         {
-            var employee = await _unitOfWork.Repository<Employee>().GetByIdAsync(id);
-            if (employee == null)
-            {
-                _loggerService.LogError("Employee not found");
-                return new CreateEmployeeResponse() { Message = "Employee not found" };
-            }
-            return new CreateEmployeeResponse() { Data = new EmployeeDTO(employee) };
+            throw new NotImplementedException();
         }
 
-        public async Task<CreateEmployeeResponse> UpdateEmployee(Guid id, CreateEmployeeRequest request)
+        //public async Task<List<EmployeeWithDepartmentDTO>> GetAllEmployeesWithDepartments()
+        //{
+        //    var specification = new IncludeDepartmentSpecification();
+        //    var employeesWithDepartments = await _unitOfWork.Repository<Employee>().ListAsync(specification);
+
+        //    var employeesWithDepartmentsDTOs = employeesWithDepartments
+        //                                            .Select(x => new EmployeeWithDepartmentDTO(x))
+        //                                            .ToList();
+        //    return employeesWithDepartmentsDTOs;
+        //}
+
+        public async Task<EmployeeResponse> GetEmployeeById(Guid id)
+        {
+            var employee = await _unitOfWork.Repository<Employee>().GetByIdAsync(id);
+            if (employee == null)
+            {
+                _loggerService.LogError("Employee not found");
+                return new EmployeeResponse() { Message = "Employee not found" };
+            }
+            return new EmployeeResponse() { Data = new EmployeeDTO(employee) };
+        }
+
+        public async Task<EmployeeResponse> UpdateEmployee(Guid id, EmployeeRequest request)
         {
             var employee = await _unitOfWork.Repository<Employee>().GetByIdAsync(id);
 
             if (employee == null)
             {
                 _loggerService.LogError("Employee not found");
-                return new CreateEmployeeResponse() { Message = "Employee not found" };
+                return new EmployeeResponse() { Message = "Employee not found" };
             }
 
             employee.Name = request.Name;
@@ -93,7 +110,7 @@ namespace Assingment_EFCore.Application.Services
 
             await _unitOfWork.SaveChangesAsync();
             _loggerService.LogInfo("Update employee successfully");
-            return new CreateEmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Update employee successfully" };
+            return new EmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Update employee successfully" };
         }
     }
 }

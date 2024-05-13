@@ -1,4 +1,5 @@
 ﻿using Assingment_EFCore.Domain.Entities;
+using System.ComponentModel.DataAnnotations;
 
 namespace Assingment_EFCore.Application.Models.DTOs
 {
@@ -10,6 +11,7 @@ namespace Assingment_EFCore.Application.Models.DTOs
 
         public Guid DepartmentId { get; set; }
 
+        [DataType(DataType.Date)]
         public DateTime JoinedDate { get; set; }
 
         public EmployeeDTO(Employee employee)

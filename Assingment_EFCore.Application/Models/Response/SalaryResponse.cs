@@ -2,9 +2,9 @@
 
 namespace Assingment_EFCore.Application.Models.Response
 {
-    public class CreateEmployeeResponse
+    public class SalaryResponse
     {
-        public EmployeeDTO Data { get; set; }
+        public SalaryDTO Data { get; set; }
         public string Message { get; set; }
     }
 }

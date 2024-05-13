@@ -7,7 +7,9 @@ namespace Assingment_EFCore.Domain.Specifications
     {
         public static BaseSpecification<Employee> GetAllEmployeesSpec()
         {
-            return new BaseSpecification<Employee>(x => x.IsDeleted == false);
+            var spec = new BaseSpecification<Employee>(x => x.IsDeleted == false);
+            spec.AddInclude(x => x.Department);
+            return spec;
         }
     }
 }

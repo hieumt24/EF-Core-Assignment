@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Assingment_EFCore.Application.Models.Requests
 {
-    public class CreateEmployeeRequest
+    public class EmployeeRequest
     {
         [Required]
         [MaxLength(50)]

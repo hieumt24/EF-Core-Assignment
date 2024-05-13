@@ -12,6 +12,10 @@ namespace Assingment_EFCore.Infrastructure.Data
         public DbSet<ProjectEmployee> ProjectEmployees { get; set; }
         public DbSet<Salary> Salaries { get; set; }
 
+        //public LibraryDbContext()
+        //{
+        //}
+
         public LibraryDbContext(DbContextOptions<LibraryDbContext> options) : base(options)
         {
         }
@@ -63,6 +67,7 @@ namespace Assingment_EFCore.Infrastructure.Data
                  new Department { Id = marketingId, Name = "Marketing" },
                  new Department { Id = salesId, Name = "Sales" },
                  new Department { Id = customerServiceId, Name = "Customer Service" }
+
              );
 
             modelBuilder.Entity<Employee>().HasData(
@@ -147,6 +152,34 @@ namespace Assingment_EFCore.Infrastructure.Data
                     IsDeleted = false
                 }
 
+            );
+            //add project
+            modelBuilder.Entity<Project>().HasData(
+                new Project
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Project A",
+                },
+                new Project
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Project B",
+                },
+                new Project
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Project C",
+                },
+                new Project
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Project D",
+                },
+                new Project
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Project E",
+                }
             );
         }
     }
