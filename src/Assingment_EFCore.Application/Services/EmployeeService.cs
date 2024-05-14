@@ -60,14 +60,15 @@ namespace Assingment_EFCore.Application.Services
             //var employees = await _unitOfWork.Repository<Employee>().ListAllAsync();
             //return new GetAllEmployeeResponse() { Data = employees.Select(x => new EmployeeDTO(x)).ToList() };
             var employee = await _unitOfWork.EmployeeRepositoryAsync.GetEmployeeIncludeAsync();
-            return employee.Select(x => new GetAllEmployeeResponse
-            {
-                Id = x.Id,
-                Name = x.Name,
-                DepartmentName = x.Department.Name,
-                JoinedDate = x.JoinedDate,
-                SalaryAmount = x.Salary?.SalaryAmount
-            }).ToList();
+            //return employee.Select(x => new GetAllEmployeeResponse
+            //{
+            //    Id = x.Id,
+            //    Name = x.Name,
+            //    DepartmentName = x.Department.Name,
+            //    JoinedDate = x.JoinedDate,
+            //    SalaryAmount = x.Salary?.SalaryAmount
+            //}).ToList();
+            return employee.Select(x => new GetAllEmployeeResponse(x)).ToList();
         }
 
         public async Task<List<EmployeeWithDepartmentDTO>> GetEmployeesWithDepartments()
