@@ -2,6 +2,9 @@
 using Assingment_EFCore.Domain.Entities;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
+using Assingment_EFCore.Application.Models.Requests;
+using System.ComponentModel;
 
 namespace Assingment_EFCore.Application.Models.Response
 {
@@ -16,6 +19,7 @@ namespace Assingment_EFCore.Application.Models.Response
         public string DepartmentName { get; set; }
 
         [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{dd-MM-yyyy}")]
         public DateTime JoinedDate { get; set; }
 
         [Column(TypeName = "decimal(18, 2)")]

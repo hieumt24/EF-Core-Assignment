@@ -40,37 +40,37 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("9f6bc4b5-2c54-4289-a1b0-93fbbd5236e0"),
+                            Id = new Guid("eb47d83e-8f33-49ba-a025-dec701ab75ee"),
                             Name = "Software Development"
                         },
                         new
                         {
-                            Id = new Guid("f1ff5038-dccf-4ae3-9526-304b76e03553"),
+                            Id = new Guid("077caa19-4752-4e32-a050-89b9c8d00672"),
                             Name = "Finance"
                         },
                         new
                         {
-                            Id = new Guid("33ab29e9-d256-4b4d-b233-6ce22c3625e1"),
+                            Id = new Guid("704a08d9-3b65-4d90-b55e-9c9bb3c09c39"),
                             Name = "Accountant"
                         },
                         new
                         {
-                            Id = new Guid("f614c858-1bcb-4bd3-beed-956560d4dfcd"),
+                            Id = new Guid("44c91649-c8b6-4bbe-8d70-a9b3e6068703"),
                             Name = "HR"
                         },
                         new
                         {
-                            Id = new Guid("e8952de1-f579-486a-99d5-a8218d8374e8"),
+                            Id = new Guid("204727bc-d435-45ad-bcac-05a752e19b42"),
                             Name = "Marketing"
                         },
                         new
                         {
-                            Id = new Guid("55a0dd42-ea2f-4454-8a31-0e0fe6439fd0"),
+                            Id = new Guid("88f10de2-ec3c-4c8e-bce6-4c42fbbbe2e1"),
                             Name = "Sales"
                         },
                         new
                         {
-                            Id = new Guid("07edf3e4-3ccc-44c9-9923-9e51a121efe0"),
+                            Id = new Guid("14d224a2-b38c-40c8-9043-6b9a0b970d4d"),
                             Name = "Customer Service"
                         });
                 });
@@ -104,80 +104,80 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("6c058439-6cb1-4e61-bfb8-0191095b5e93"),
-                            DepartmentId = new Guid("9f6bc4b5-2c54-4289-a1b0-93fbbd5236e0"),
+                            Id = new Guid("e00eb695-16af-41e3-8d2e-0258b1c2e797"),
+                            DepartmentId = new Guid("eb47d83e-8f33-49ba-a025-dec701ab75ee"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2020, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van A"
                         },
                         new
                         {
-                            Id = new Guid("14fee08b-ab6e-4759-929a-0b147c8e19ff"),
-                            DepartmentId = new Guid("f1ff5038-dccf-4ae3-9526-304b76e03553"),
+                            Id = new Guid("48b448b3-299a-485e-8c70-48967185ac04"),
+                            DepartmentId = new Guid("077caa19-4752-4e32-a050-89b9c8d00672"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2020, 10, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van B"
                         },
                         new
                         {
-                            Id = new Guid("ddc70bce-98e9-4152-a92d-117ddd8997aa"),
-                            DepartmentId = new Guid("9f6bc4b5-2c54-4289-a1b0-93fbbd5236e0"),
+                            Id = new Guid("bf57cf1b-2026-436d-894e-dd6a711756fb"),
+                            DepartmentId = new Guid("eb47d83e-8f33-49ba-a025-dec701ab75ee"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2019, 1, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van C"
                         },
                         new
                         {
-                            Id = new Guid("f76fafce-2021-40f2-b163-368d9fa7c600"),
-                            DepartmentId = new Guid("f614c858-1bcb-4bd3-beed-956560d4dfcd"),
+                            Id = new Guid("72814f03-70cb-4d9a-8541-1f713fc6762e"),
+                            DepartmentId = new Guid("44c91649-c8b6-4bbe-8d70-a9b3e6068703"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2018, 5, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van D"
                         },
                         new
                         {
-                            Id = new Guid("4ccdb5a9-ade2-4797-97cc-fa551ff2b91e"),
-                            DepartmentId = new Guid("e8952de1-f579-486a-99d5-a8218d8374e8"),
+                            Id = new Guid("73def274-5e7c-4476-881c-46c7bb428938"),
+                            DepartmentId = new Guid("204727bc-d435-45ad-bcac-05a752e19b42"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2017, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van E"
                         },
                         new
                         {
-                            Id = new Guid("1ed28244-29c0-4881-9964-b0dc5237a310"),
-                            DepartmentId = new Guid("55a0dd42-ea2f-4454-8a31-0e0fe6439fd0"),
+                            Id = new Guid("7c55e16a-6c45-4a95-948a-2c52b3f3c7ad"),
+                            DepartmentId = new Guid("88f10de2-ec3c-4c8e-bce6-4c42fbbbe2e1"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2016, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van F"
                         },
                         new
                         {
-                            Id = new Guid("cb92e359-c100-4f27-85ae-68c32b5cab34"),
-                            DepartmentId = new Guid("07edf3e4-3ccc-44c9-9923-9e51a121efe0"),
+                            Id = new Guid("2f27c155-d28d-4a8c-9edd-dfd928c945e3"),
+                            DepartmentId = new Guid("14d224a2-b38c-40c8-9043-6b9a0b970d4d"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2015, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van G"
                         },
                         new
                         {
-                            Id = new Guid("95e73d54-81f8-47f7-830c-da1e42484b4d"),
-                            DepartmentId = new Guid("9f6bc4b5-2c54-4289-a1b0-93fbbd5236e0"),
+                            Id = new Guid("32ab0fa0-0759-44de-b7a3-186942f4484f"),
+                            DepartmentId = new Guid("eb47d83e-8f33-49ba-a025-dec701ab75ee"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2014, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van H"
                         },
                         new
                         {
-                            Id = new Guid("87d5fac3-2cd1-4c83-9bf2-fc65c00de0ee"),
-                            DepartmentId = new Guid("f1ff5038-dccf-4ae3-9526-304b76e03553"),
+                            Id = new Guid("6a18e901-c6e0-4d8d-90e6-2b1d4e3d5ef5"),
+                            DepartmentId = new Guid("077caa19-4752-4e32-a050-89b9c8d00672"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2013, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van I"
                         },
                         new
                         {
-                            Id = new Guid("5eaf9267-2f42-4bb7-9dde-9b3674da71ba"),
-                            DepartmentId = new Guid("f614c858-1bcb-4bd3-beed-956560d4dfcd"),
+                            Id = new Guid("94b9dd0b-0b4a-4a80-9b0c-f2d04824c70d"),
+                            DepartmentId = new Guid("44c91649-c8b6-4bbe-8d70-a9b3e6068703"),
                             IsDeleted = false,
                             JoinedDate = new DateTime(2012, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Nguyen Van K"
@@ -202,28 +202,33 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("5c735561-7a2c-47e0-85b6-e1dad02cb350"),
+                            Id = new Guid("e20bea29-d1c4-4688-a69a-a634f6675a54"),
                             Name = "Project A"
                         },
                         new
                         {
-                            Id = new Guid("518ae6c2-506f-4f98-9841-52ad994a1ad2"),
+                            Id = new Guid("bc5e777e-265c-4964-aa59-708076744a3a"),
                             Name = "Project B"
                         },
                         new
                         {
-                            Id = new Guid("aa3b8480-0349-427a-99f7-3c345ad8f3fa"),
+                            Id = new Guid("2cb4b1e6-ea74-40be-99e7-71b53124ba85"),
                             Name = "Project C"
                         },
                         new
                         {
-                            Id = new Guid("0bb86571-364b-4d8e-b59d-ba4e4dd55b8b"),
+                            Id = new Guid("57839bbc-e60f-4e33-a4da-c336a86799ae"),
                             Name = "Project D"
                         },
                         new
                         {
-                            Id = new Guid("4fdf3b0f-aaab-4655-b55b-9e2e09d8822e"),
+                            Id = new Guid("3483cd91-651e-4a40-8505-1d24d733764d"),
                             Name = "Project E"
+                        },
+                        new
+                        {
+                            Id = new Guid("1fa11c89-5d1d-448c-961c-19455e1841af"),
+                            Name = "Project F"
                         });
                 });
 
@@ -243,6 +248,62 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                     b.HasIndex("EmployeeId");
 
                     b.ToTable("ProjectEmployees");
+
+                    b.HasData(
+                        new
+                        {
+                            ProjectId = new Guid("e20bea29-d1c4-4688-a69a-a634f6675a54"),
+                            EmployeeId = new Guid("e00eb695-16af-41e3-8d2e-0258b1c2e797"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("bc5e777e-265c-4964-aa59-708076744a3a"),
+                            EmployeeId = new Guid("e00eb695-16af-41e3-8d2e-0258b1c2e797"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("2cb4b1e6-ea74-40be-99e7-71b53124ba85"),
+                            EmployeeId = new Guid("e00eb695-16af-41e3-8d2e-0258b1c2e797"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("e20bea29-d1c4-4688-a69a-a634f6675a54"),
+                            EmployeeId = new Guid("48b448b3-299a-485e-8c70-48967185ac04"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("2cb4b1e6-ea74-40be-99e7-71b53124ba85"),
+                            EmployeeId = new Guid("48b448b3-299a-485e-8c70-48967185ac04"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("e20bea29-d1c4-4688-a69a-a634f6675a54"),
+                            EmployeeId = new Guid("bf57cf1b-2026-436d-894e-dd6a711756fb"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("bc5e777e-265c-4964-aa59-708076744a3a"),
+                            EmployeeId = new Guid("bf57cf1b-2026-436d-894e-dd6a711756fb"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("2cb4b1e6-ea74-40be-99e7-71b53124ba85"),
+                            EmployeeId = new Guid("bf57cf1b-2026-436d-894e-dd6a711756fb"),
+                            Enable = true
+                        },
+                        new
+                        {
+                            ProjectId = new Guid("e20bea29-d1c4-4688-a69a-a634f6675a54"),
+                            EmployeeId = new Guid("72814f03-70cb-4d9a-8541-1f713fc6762e"),
+                            Enable = true
+                        });
                 });
 
             modelBuilder.Entity("Assingment_EFCore.Domain.Entities.Salary", b =>
@@ -263,6 +324,62 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                         .IsUnique();
 
                     b.ToTable("Salaries");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("a9f2c783-795d-4e4f-92c8-4b830f721d6f"),
+                            EmployeeId = new Guid("e00eb695-16af-41e3-8d2e-0258b1c2e797"),
+                            SalaryAmount = 1000m
+                        },
+                        new
+                        {
+                            Id = new Guid("0cf5af08-2b13-42cd-b340-0617861779ed"),
+                            EmployeeId = new Guid("48b448b3-299a-485e-8c70-48967185ac04"),
+                            SalaryAmount = 2000m
+                        },
+                        new
+                        {
+                            Id = new Guid("62947484-15b8-4c31-863f-2f10161e9c8a"),
+                            EmployeeId = new Guid("bf57cf1b-2026-436d-894e-dd6a711756fb"),
+                            SalaryAmount = 3000m
+                        },
+                        new
+                        {
+                            Id = new Guid("5a569bfd-a7fb-498c-8d82-b56b653478a5"),
+                            EmployeeId = new Guid("73def274-5e7c-4476-881c-46c7bb428938"),
+                            SalaryAmount = 5000m
+                        },
+                        new
+                        {
+                            Id = new Guid("55464761-c00c-4da4-9eee-63175586670f"),
+                            EmployeeId = new Guid("7c55e16a-6c45-4a95-948a-2c52b3f3c7ad"),
+                            SalaryAmount = 6000m
+                        },
+                        new
+                        {
+                            Id = new Guid("33463341-1720-43d1-9ca7-237653e7eec0"),
+                            EmployeeId = new Guid("2f27c155-d28d-4a8c-9edd-dfd928c945e3"),
+                            SalaryAmount = 7000m
+                        },
+                        new
+                        {
+                            Id = new Guid("addee1fb-90bd-48d6-bc82-b1ba3f658102"),
+                            EmployeeId = new Guid("32ab0fa0-0759-44de-b7a3-186942f4484f"),
+                            SalaryAmount = 8000m
+                        },
+                        new
+                        {
+                            Id = new Guid("26cda848-e8d1-40a4-b5ee-544e16f68443"),
+                            EmployeeId = new Guid("6a18e901-c6e0-4d8d-90e6-2b1d4e3d5ef5"),
+                            SalaryAmount = 9000m
+                        },
+                        new
+                        {
+                            Id = new Guid("8c42be0d-e8b1-4f8a-a8d8-19fc52cb9fce"),
+                            EmployeeId = new Guid("94b9dd0b-0b4a-4a80-9b0c-f2d04824c70d"),
+                            SalaryAmount = 10000m
+                        });
                 });
 
             modelBuilder.Entity("Assingment_EFCore.Domain.Entities.Employee", b =>
@@ -315,8 +432,7 @@ namespace Assingment_EFCore.Infrastructure.Migrations
                 {
                     b.Navigation("ProjectEmployees");
 
-                    b.Navigation("Salary")
-                        .IsRequired();
+                    b.Navigation("Salary");
                 });
 
             modelBuilder.Entity("Assingment_EFCore.Domain.Entities.Project", b =>

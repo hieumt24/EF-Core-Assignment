@@ -38,6 +38,7 @@ namespace Assingment_EFCore.Application.Services
             if (project == null)
             {
                 _loggerService.LogError("Project not found");
+                return false;
             }
             _unitOfWork.Repository<Project>().Delete(project);
             await _unitOfWork.SaveChangesAsync();

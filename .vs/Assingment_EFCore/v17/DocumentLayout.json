@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092044F1-9386-4902-88BB-AFA9FF761479}|src\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092044F1-9386-4902-88BB-AFA9FF761479}|src\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj|solutionrelative:src\\assingment_efcore.infrastructure\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\interfaces\\iemployeeserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\interfaces\\iemployeeserivce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092044F1-9386-4902-88BB-AFA9FF761479}|src\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.infrastructure\\data\\librarydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092044F1-9386-4902-88BB-AFA9FF761479}|src\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj|solutionrelative:src\\assingment_efcore.infrastructure\\data\\librarydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\dtos\\employeeprojectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\dtos\\employeeprojectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\services\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|solutionrelative:src\\assingment_efcore.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\response\\getallemployeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\response\\getallemployeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|solutionrelative:src\\assingment_efcore.webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\requests\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\requests\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\requests\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\requests\\departmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.application\\models\\requests\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED92239-B415-4D59-8233-478526A278BF}|src\\Assingment_EFCore.Application\\Assingment_EFCore.Application.csproj|solutionrelative:src\\assingment_efcore.application\\models\\requests\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|d:\\dev\\nashtech\\tranning\\rookies\\ef core\\assingment_efcore\\src\\assingment_efcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D8A94C1-D816-48EF-B886-745B022277C2}|src\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj|solutionrelative:src\\assingment_efcore.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -323,6 +391,227 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240514163438_seedDataEnable.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163438_seedDataEnable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:34:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240514163241_seedData.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240514163241_seedData.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:32:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryDbContextFactory.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:26:59.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAYwDsBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:21:21.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeProjectsDto.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\SalaryService.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Services\\SalaryService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\SalaryService.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Services\\SalaryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Services\\ProjectService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\ProjectService.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Services\\ProjectService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:20:00.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeSerivce.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:19:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwH0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:19:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:16:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:15:10.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllEmployeeResponse.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:08:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:08:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentRequest.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:07:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:07:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\Requests\\DateOnlyJsonConverter.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\Requests\\DateOnlyJsonConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:03:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "src\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
+              "RelativeToolTip": "src\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:02:16.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\src\\Assingment_EFCore.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "src\\Assingment_EFCore.WebApi\\Program.cs",
@@ -335,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "Assingment_EFCore.Infrastructure.csproj",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Assingment_EFCore.Infrastructure.csproj",
@@ -347,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "GetAllEmployeeResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\GetAllEmployeeResponse.cs",
@@ -359,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "IEmployeeSerivce.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Interfaces\\IEmployeeSerivce.cs",
@@ -371,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Controllers\\EmployeeController.cs",
@@ -382,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Controllers\\ProjectController.cs",
@@ -394,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "Project.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Entities\\Project.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Entities\\Project.cs",
@@ -406,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Entities\\Employee.cs",
@@ -418,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "EmployeeProjectsDto.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\EmployeeProjectsDto.cs",
@@ -430,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "EmployeeRequest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Requests\\EmployeeRequest.cs",
@@ -442,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Services\\EmployeeService.cs",
@@ -454,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "EmployeeRepositoryAsync.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Repositories\\EmployeeRepositoryAsync.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Repositories\\EmployeeRepositoryAsync.cs",
@@ -466,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Repositories\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Repositories\\IUnitOfWork.cs",
@@ -478,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "EmployeeResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\EmployeeResponse.cs",
@@ -490,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\EmployeeDTO.cs",
@@ -502,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "Salary.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Entities\\Salary.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Entities\\Salary.cs",
@@ -514,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "LibraryDbContext.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\LibraryDbContext.cs",
@@ -526,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "IEmployeeRepositoryAsync.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Repositories\\IEmployeeRepositoryAsync.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Repositories\\IEmployeeRepositoryAsync.cs",
@@ -538,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "EmployeeWithDepartmentDTO.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\EmployeeWithDepartmentDTO.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\EmployeeWithDepartmentDTO.cs",
@@ -550,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "ProjectEmployee.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Entities\\ProjectEmployee.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Entities\\ProjectEmployee.cs",
@@ -562,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "SalaryController.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Controllers\\SalaryController.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Controllers\\SalaryController.cs",
@@ -574,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Repositories\\UnitOfWork.cs",
@@ -586,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "BaseRepositoryAsync.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Repositories\\BaseRepositoryAsync.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Repositories\\BaseRepositoryAsync.cs",
@@ -598,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "GetAllProjectResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\GetAllProjectResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\GetAllProjectResponse.cs",
@@ -610,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\DependencyInjections.cs",
@@ -622,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
               "Title": "ProjectResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\ProjectResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\ProjectResponse.cs",
@@ -634,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "IBaseRepositoryAsync.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Repositories\\IBaseRepositoryAsync.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Repositories\\IBaseRepositoryAsync.cs",
@@ -646,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Services\\ProjectService.cs",
@@ -658,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "ProjectDTO.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\ProjectDTO.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\ProjectDTO.cs",
@@ -670,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "ProjectRequest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Requests\\ProjectRequest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Requests\\ProjectRequest.cs",
@@ -682,7 +971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Interfaces\\IProjectService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Interfaces\\IProjectService.cs",
@@ -694,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "SalaryService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Services\\SalaryService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Services\\SalaryService.cs",
@@ -706,7 +995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 51,
               "Title": "SalaryRequest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Requests\\SalaryRequest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Requests\\SalaryRequest.cs",
@@ -718,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Interfaces\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Interfaces\\IDepartmentService.cs",
@@ -730,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "GetAllDepartmentResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\GetAllDepartmentResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\GetAllDepartmentResponse.cs",
@@ -742,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "EmployeeWithDepartmentRequest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Requests\\EmployeeWithDepartmentRequest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Requests\\EmployeeWithDepartmentRequest.cs",
@@ -754,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 55,
               "Title": "SalaryDTO.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\SalaryDTO.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\SalaryDTO.cs",
@@ -766,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Specifications\\ISpecification.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Specifications\\ISpecification.cs",
@@ -778,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 57,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Controllers\\DepartmentController.cs",
@@ -790,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 58,
               "Title": "20240513165244_addnewProejct.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240513165244_addnewProejct.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240513165244_addnewProejct.cs",
@@ -802,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "LibraryDbContextFactory.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\LibraryDbContextFactory.cs",
@@ -814,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 60,
               "Title": "EmployeeWithDepartmentResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\EmployeeWithDepartmentResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\EmployeeWithDepartmentResponse.cs",
@@ -826,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 61,
               "Title": "EmployeeSpecifications.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Specifications\\EmployeeSpecifications.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Specifications\\EmployeeSpecifications.cs",
@@ -838,7 +1127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 62,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Repositories\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Repositories\\SpecificationEvaluator.cs",
@@ -850,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 63,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\DependencyInjections.cs",
@@ -862,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 64,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Specifications\\BaseSpecification.cs",
@@ -874,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 65,
               "Title": "logger.txt",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\logger.txt",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\logger.txt",
@@ -886,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 66,
               "Title": "nlog.config",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\nlog.config",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\nlog.config",
@@ -898,7 +1187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 67,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Program.cs",
@@ -910,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 68,
               "Title": "ISalaryService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Interfaces\\ISalaryService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Interfaces\\ISalaryService.cs",
@@ -922,7 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 69,
               "Title": "DepartmentRequest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Requests\\DepartmentRequest.cs",
@@ -934,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 70,
               "Title": "DepartmentDTO.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\DTOs\\DepartmentDTO.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\DTOs\\DepartmentDTO.cs",
@@ -946,7 +1235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 71,
               "Title": "DepartmentResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\DepartmentResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\DepartmentResponse.cs",
@@ -958,7 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 72,
               "Title": "GetAllSalaryResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\GetAllSalaryResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\GetAllSalaryResponse.cs",
@@ -970,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 73,
               "Title": "Assingment_EFCore.WebApi.csproj",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.csproj",
@@ -982,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 74,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Controllers\\WeatherForecastController.cs",
@@ -994,7 +1283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 75,
               "Title": "SalaryResponse.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Models\\Response\\SalaryResponse.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Models\\Response\\SalaryResponse.cs",
@@ -1006,7 +1295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 76,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Services\\DepartmentService.cs",
@@ -1018,7 +1307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 77,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Entities\\Department.cs",
@@ -1030,7 +1319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 78,
               "Title": "Assingment_EFCore.WebApi.http",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.http",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\Assingment_EFCore.WebApi.http",
@@ -1042,7 +1331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 79,
               "Title": "ILoggerService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Application\\Core\\Services\\ILoggerService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Application\\Core\\Services\\ILoggerService.cs",
@@ -1054,7 +1343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 80,
               "Title": "LoggerService.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Services\\LoggerService.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Services\\LoggerService.cs",
@@ -1066,7 +1355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 81,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\appsettings.json",
@@ -1078,7 +1367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 82,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\appsettings.json",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\appsettings.json",
@@ -1090,7 +1379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "20240512151248_addnewEmployee.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512151248_addnewEmployee.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512151248_addnewEmployee.cs",
@@ -1101,7 +1390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "20240512152103_addtest.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512152103_addtest.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512152103_addtest.cs",
@@ -1112,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 83,
               "Title": "20240512152700_addNewEmployee.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512152700_addNewEmployee.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512152700_addNewEmployee.cs",
@@ -1124,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 84,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\appsettings.Development.json",
@@ -1136,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 85,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.WebApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.WebApi\\WeatherForecast.cs",
@@ -1148,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 86,
               "Title": "20240510055601_addSeedDataDepartment.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240510055601_addSeedDataDepartment.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240510055601_addSeedDataDepartment.cs",
@@ -1160,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 87,
               "Title": "LibraryDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\LibraryDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\LibraryDbContextModelSnapshot.cs",
@@ -1172,7 +1461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 88,
               "Title": "20240512144545_addnewDepartment.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512144545_addnewDepartment.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240512144545_addnewDepartment.cs",
@@ -1184,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 89,
               "Title": "ISoftDeleteEntity.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Models\\ISoftDeleteEntity.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Models\\ISoftDeleteEntity.cs",
@@ -1196,7 +1485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 90,
               "Title": "20240510055053_intilDb.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240510055053_intilDb.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Infrastructure\\Data\\Migrations\\20240510055053_intilDb.cs",
@@ -1208,7 +1497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 91,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Core\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Core\\Models\\BaseEntity.cs",
@@ -1220,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 92,
               "Title": "Assingment_EFCore.Domain.csproj",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\EF Core\\Assingment_EFCore\\Assingment_EFCore.Domain\\Assingment_EFCore.Domain.csproj",
               "RelativeDocumentMoniker": "Assingment_EFCore.Domain\\Assingment_EFCore.Domain.csproj",

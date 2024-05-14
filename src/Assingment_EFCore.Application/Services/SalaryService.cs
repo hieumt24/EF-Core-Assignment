@@ -37,6 +37,7 @@ namespace Assingment_EFCore.Application.Services
             if (salary == null)
             {
                 _loggerService.LogError("Salary not found");
+                return false;
             }
             _unitOfWork.Repository<Salary>().Delete(salary);
             await _unitOfWork.SaveChangesAsync();

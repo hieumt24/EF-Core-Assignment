@@ -17,7 +17,5 @@ namespace Assingment_EFCore.Application.Interfaces
         Task<EmployeeResponse> GetEmployeeById(Guid id);
 
         Task<List<EmployeeWithDepartmentDTO>> GetEmployeesWithDepartments();
-
-        Task<IEnumerable<EmployeeProjectsDto>> GetEmployeesWithProjects();
     }
 }

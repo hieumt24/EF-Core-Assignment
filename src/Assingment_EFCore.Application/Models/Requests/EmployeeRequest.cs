@@ -1,7 +1,5 @@
-﻿using Assingment_EFCore.Domain.Entities;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
 namespace Assingment_EFCore.Application.Models.Requests
@@ -15,8 +13,10 @@ namespace Assingment_EFCore.Application.Models.Requests
         [Required]
         public Guid DepartmentId { get; set; }
 
-        [Required]
-        [DataType(DataType.Date)]
+        //[Required]
+        //[DataType(DataType.Date)]
+        [JsonConverter(typeof(DateOnlyJsonConverter))]
+        [Description("format dd-MM-yyyy")]
         public DateTime JoinedDate { get; set; }
 
         //[Column(TypeName = "decimal(18, 2)")]

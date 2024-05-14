@@ -38,6 +38,7 @@ namespace Assingment_EFCore.Application.Services
             if (department == null)
             {
                 _loggerService.LogError("Department not found");
+                return false;
             }
             _unitOfWork.Repository<Department>().Delete(department);
             await _unitOfWork.SaveChangesAsync();

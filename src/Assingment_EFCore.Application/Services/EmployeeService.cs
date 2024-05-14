@@ -46,6 +46,7 @@ namespace Assingment_EFCore.Application.Services
             if (employee == null)
             {
                 _loggerService.LogError("Employee not found");
+                return false;
             }
             _unitOfWork.Repository<Employee>().Delete(employee);
             await _unitOfWork.SaveChangesAsync();
@@ -121,11 +122,6 @@ namespace Assingment_EFCore.Application.Services
             await _unitOfWork.SaveChangesAsync();
             _loggerService.LogInfo("Update employee successfully");
             return new EmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Update employee successfully" };
-        }
-
-        public Task<IEnumerable<EmployeeProjectsDto>> GetEmployeesWithProjects()
-        {
-            throw new Exception();
         }
     }
 }
