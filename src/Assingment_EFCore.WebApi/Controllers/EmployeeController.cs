@@ -33,7 +33,6 @@ namespace Assingment_EFCore.WebApi.Controllers
             try
             {
                 var response = await _employeeSerivce.GetAllEmployee();
-
                 return Ok(response);
             }
             catch (Exception ex)
@@ -51,13 +50,16 @@ namespace Assingment_EFCore.WebApi.Controllers
         [Route("employee")]
         public async Task<ActionResult<EmployeeResponse>> CreateEmployee([FromForm] EmployeeRequest employeeRequest)
         {
+            using var transaction = await _dbContext.Database.BeginTransactionAsync();
             try
             {
                 var response = await _employeeSerivce.CreateEmployee(employeeRequest);
+                await transaction.CommitAsync();
                 return Ok(response);
             }
             catch (Exception ex)
             {
+                await transaction.RollbackAsync();
                 return StatusCode(500, $"{ex.Message}");
             }
         }
