@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
+using Assingment_EFCore.Application.Models.ValidationData;
 
 namespace Assingment_EFCore.Application.Models.Requests
 {
@@ -15,6 +16,9 @@ namespace Assingment_EFCore.Application.Models.Requests
 
         //[Required]
         //[DataType(DataType.Date)]
+        /// <summary>
+        /// Format yyyy-MM-dd
+        /// </summary>
         [JsonConverter(typeof(DateOnlyJsonConverter))]
         [Description("format dd-MM-yyyy")]
         public DateTime JoinedDate { get; set; }
