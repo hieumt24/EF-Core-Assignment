@@ -16,7 +16,7 @@ namespace Assingment_EFCore.Domain.Entities
         public Department Department { get; set; }
 
         public List<ProjectEmployee> ProjectEmployees { get; set; }
-        public Salary Salary { get; set; }
+        public Salary? Salary { get; set; }
 
         [Required]
         [DataType(DataType.Date)]

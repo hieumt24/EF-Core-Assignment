@@ -8,7 +8,7 @@ namespace Assingment_EFCore.Application.Interfaces
     {
         Task<EmployeeResponse> CreateEmployee(EmployeeRequest request);
 
-        Task<GetAllEmployeeResponse> GetAllEmployee();
+        Task<List<GetAllEmployeeResponse>> GetAllEmployee();
 
         Task<EmployeeResponse> UpdateEmployee(Guid id, EmployeeRequest request);
 
@@ -16,6 +16,8 @@ namespace Assingment_EFCore.Application.Interfaces
 
         Task<EmployeeResponse> GetEmployeeById(Guid id);
 
-        Task<List<GetAllEmployeeResponse>> GetAllEmployeesWithDepartments();
+        Task<List<EmployeeWithDepartmentDTO>> GetEmployeesWithDepartments();
+
+        Task<IEnumerable<EmployeeProjectsDto>> GetEmployeesWithProjects();
     }
 }

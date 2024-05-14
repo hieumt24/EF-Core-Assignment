@@ -4,5 +4,8 @@
     {
         public string EmployeeName { get; set; }
         public List<string> ProjectNames { get; set; }
+
+        public EmployeeProjectsDto()
+        { }
     }
 }

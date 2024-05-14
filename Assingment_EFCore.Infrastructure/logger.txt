@@ -388,3 +388,207 @@
 2024-05-14 00:34:55.8404 Info Closing old configuration.
 2024-05-14 00:34:55.8404 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
 2024-05-14 00:34:55.8404 Info Configuration initialized.
+2024-05-14 11:32:24.5070 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 11:32:24.5288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 11:32:24.5414 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 11:32:24.5563 Info Configuration initialized.
+2024-05-14 11:36:06.1381 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 11:36:06.1594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 11:36:06.1594 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 11:36:06.1817 Info Configuration initialized.
+2024-05-14 11:36:14.6367 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 11:36:14.6403 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 11:36:14.6403 Info Closing old configuration.
+2024-05-14 11:36:14.6403 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 11:36:14.6403 Info Configuration initialized.
+2024-05-14 11:39:08.3747 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 11:39:08.4086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 11:39:08.4086 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 11:39:08.4316 Info Configuration initialized.
+2024-05-14 12:18:54.5363 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:18:54.5641 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:18:54.5641 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:18:54.5902 Info Configuration initialized.
+2024-05-14 12:19:38.7079 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:19:38.7079 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:19:38.7079 Info Closing old configuration.
+2024-05-14 12:19:38.7302 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:19:38.7348 Info Configuration initialized.
+2024-05-14 12:19:55.0722 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:19:55.0722 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:19:55.0722 Info Closing old configuration.
+2024-05-14 12:19:55.0722 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:19:55.0722 Info Configuration initialized.
+2024-05-14 12:21:18.2452 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:21:18.2664 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:21:18.2821 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:21:18.2821 Info Configuration initialized.
+2024-05-14 12:23:32.5484 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:23:32.5670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:23:32.5670 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:23:32.5905 Info Configuration initialized.
+2024-05-14 12:24:41.4381 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:24:41.4567 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:24:41.4567 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:24:41.4852 Info Configuration initialized.
+2024-05-14 12:24:47.3921 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:24:47.3921 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:24:47.3921 Info Closing old configuration.
+2024-05-14 12:24:47.3921 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:24:47.3921 Info Configuration initialized.
+2024-05-14 12:26:10.2688 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:26:10.2905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:26:10.3004 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:26:10.3196 Info Configuration initialized.
+2024-05-14 12:26:42.3216 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:26:42.3390 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:26:42.3497 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:26:42.3616 Info Configuration initialized.
+2024-05-14 12:27:31.3218 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:27:31.3440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:27:31.3440 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:31.3671 Info Configuration initialized.
+2024-05-14 12:27:38.4043 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:38.4070 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:27:38.4070 Info Closing old configuration.
+2024-05-14 12:27:38.4261 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:38.4261 Info Configuration initialized.
+2024-05-14 12:27:53.0838 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:53.0838 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:27:53.0838 Info Closing old configuration.
+2024-05-14 12:27:53.0838 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:53.0838 Info Configuration initialized.
+2024-05-14 12:27:57.8992 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:57.8992 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:27:57.8992 Info Closing old configuration.
+2024-05-14 12:27:57.8992 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:27:57.8992 Info Configuration initialized.
+2024-05-14 12:35:24.4897 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:35:24.5111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:35:24.5251 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:35:24.5529 Info Configuration initialized.
+2024-05-14 12:38:27.5925 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:38:27.6133 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:38:27.6133 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:38:27.6472 Info Configuration initialized.
+2024-05-14 12:38:49.4778 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:38:49.4950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:38:49.5057 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:38:49.5183 Info Configuration initialized.
+2024-05-14 12:39:40.0815 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:39:40.0815 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:39:40.0815 Info Closing old configuration.
+2024-05-14 12:39:40.1004 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:39:40.1004 Info Configuration initialized.
+2024-05-14 12:56:37.8703 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:56:37.8886 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:56:37.8999 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:56:37.9132 Info Configuration initialized.
+2024-05-14 12:57:18.7606 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:57:18.7606 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:57:18.7606 Info Closing old configuration.
+2024-05-14 12:57:18.7847 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:57:18.7847 Info Configuration initialized.
+2024-05-14 12:57:35.0361 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:57:35.0361 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:57:35.0361 Info Closing old configuration.
+2024-05-14 12:57:35.0361 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:57:35.0361 Info Configuration initialized.
+2024-05-14 12:59:03.6358 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:59:03.6532 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 12:59:03.6633 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:59:03.6752 Info Configuration initialized.
+2024-05-14 12:59:46.0993 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:59:46.0993 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 12:59:46.0993 Info Closing old configuration.
+2024-05-14 12:59:46.1252 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 12:59:46.1252 Info Configuration initialized.
+2024-05-14 13:02:01.5864 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:02:01.6044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:02:01.6138 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:01.6271 Info Configuration initialized.
+2024-05-14 13:02:12.6588 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:12.6588 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:02:12.6588 Info Closing old configuration.
+2024-05-14 13:02:12.6588 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:12.6721 Info Configuration initialized.
+2024-05-14 13:02:39.4839 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:39.4847 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:02:39.4847 Info Closing old configuration.
+2024-05-14 13:02:39.4996 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:39.4996 Info Configuration initialized.
+2024-05-14 13:02:44.6054 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:44.6054 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:02:44.6054 Info Closing old configuration.
+2024-05-14 13:02:44.6054 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:02:44.6120 Info Configuration initialized.
+2024-05-14 13:03:29.7901 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:03:29.7901 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:03:29.7901 Info Closing old configuration.
+2024-05-14 13:03:29.7901 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:03:29.7901 Info Configuration initialized.
+2024-05-14 13:03:59.4924 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:03:59.5106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:03:59.5189 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:03:59.5330 Info Configuration initialized.
+2024-05-14 13:04:35.1778 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:04:35.1778 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:04:35.1778 Info Closing old configuration.
+2024-05-14 13:04:35.1901 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:04:35.1901 Info Configuration initialized.
+2024-05-14 13:05:40.8455 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:05:40.8632 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:05:40.8753 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:05:40.8916 Info Configuration initialized.
+2024-05-14 13:06:11.9758 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:06:11.9758 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:06:11.9758 Info Closing old configuration.
+2024-05-14 13:06:11.9918 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:06:11.9918 Info Configuration initialized.
+2024-05-14 13:06:22.8757 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:06:22.8757 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:06:22.8757 Info Closing old configuration.
+2024-05-14 13:06:22.8757 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:06:22.8757 Info Configuration initialized.
+2024-05-14 13:11:57.0741 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:11:57.0927 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:11:57.1035 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:11:57.1198 Info Configuration initialized.
+2024-05-14 13:14:10.1021 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:14:10.1244 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:14:10.1244 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:14:10.1541 Info Configuration initialized.
+2024-05-14 13:14:30.1096 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:14:30.1096 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:14:30.1096 Info Closing old configuration.
+2024-05-14 13:14:30.1294 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:14:30.1294 Info Configuration initialized.
+2024-05-14 13:14:44.0701 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:14:44.0701 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:14:44.0701 Info Closing old configuration.
+2024-05-14 13:14:44.0701 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:14:44.0701 Info Configuration initialized.
+2024-05-14 13:32:13.3429 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:32:13.3641 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-14 13:32:13.3808 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:32:13.4120 Info Configuration initialized.
+2024-05-14 13:32:48.8877 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:32:48.8904 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:32:48.8904 Info Closing old configuration.
+2024-05-14 13:32:48.9122 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:32:48.9122 Info Configuration initialized.
+2024-05-14 13:33:00.6402 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:33:00.6410 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:33:00.6410 Info Closing old configuration.
+2024-05-14 13:33:00.6410 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:33:00.6410 Info Configuration initialized.
+2024-05-14 13:36:37.0629 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:36:37.0629 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:36:37.0629 Info Closing old configuration.
+2024-05-14 13:36:37.0629 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:36:37.0629 Info Configuration initialized.
+2024-05-14 13:36:42.8383 Info Loading NLog config from XML file: D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:36:42.8383 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-05-14 13:36:42.8383 Info Closing old configuration.
+2024-05-14 13:36:42.8383 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\DEV\Nashtech\Tranning\Rookies\EF Core\Assingment_EFCore\Assingment_EFCore.WebApi\bin\Debug\net8.0\nlog.config
+2024-05-14 13:36:42.8454 Info Configuration initialized.

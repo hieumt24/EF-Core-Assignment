@@ -6,8 +6,11 @@ namespace Assingment_EFCore.Infrastructure.Repositories
 {
     public class UnitOfWork : IUnitOfWork
     {
+        public IEmployeeRepositoryAsync _employeeRepositoryAsync;
         protected readonly LibraryDbContext _dbContext;
         private readonly IDictionary<Type, dynamic> _repositories;
+
+        public IEmployeeRepositoryAsync EmployeeRepositoryAsync => _employeeRepositoryAsync ?? new EmployeeRepositoryAsync(_dbContext);
 
         public UnitOfWork(LibraryDbContext dbContext)
         {

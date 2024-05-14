@@ -4,6 +4,8 @@ namespace Assingment_EFCore.Domain.Core.Repositories
 {
     public interface IUnitOfWork
     {
+        IEmployeeRepositoryAsync EmployeeRepositoryAsync { get; }
+
         Task<int> SaveChangesAsync();
 
         Task RollBackChangesAsync();

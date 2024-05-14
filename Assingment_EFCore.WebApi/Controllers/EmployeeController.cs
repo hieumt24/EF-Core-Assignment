@@ -134,15 +134,16 @@ namespace Assingment_EFCore.WebApi.Controllers
         {
             try
             {
-                var employeesWithDepartments = await (from emp in _dbContext.Employees
-                                                      join dept in _dbContext.Departments
-                                                      on emp.DepartmentId equals dept.Id
-                                                      select new EmployeeWithDepartmentDTO
-                                                      {
-                                                          EmployeeId = emp.Id,
-                                                          EmployeeName = emp.Name,
-                                                          DepartmentName = dept.Name
-                                                      }).ToListAsync();
+                //var employeesWithDepartments = await (from emp in _dbContext.Employees
+                //                                      join dept in _dbContext.Departments
+                //                                      on emp.DepartmentId equals dept.Id
+                //                                      select new EmployeeWithDepartmentDTO
+                //                                      {
+                //                                          EmployeeId = emp.Id,
+                //                                          EmployeeName = emp.Name,
+                //                                          DepartmentName = dept.Name
+                //                                      }).ToListAsync();
+                var employeesWithDepartments = await _employeeSerivce.GetEmployeesWithDepartments();
 
                 return Ok(employeesWithDepartments);
             }

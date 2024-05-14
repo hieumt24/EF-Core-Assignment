@@ -27,7 +27,11 @@ namespace Assingment_EFCore.Application.Services
                 Name = request.Name,
                 DepartmentId = request.DepartmentId,
                 JoinedDate = request.JoinedDate,
-                IsDeleted = false
+                //IsDeleted = false,
+                //Salary = new Salary
+                //{
+                //    SalaryAmount = request.SalaryAmount
+                //}
             });
 
             await _unitOfWork.SaveChangesAsync();
@@ -49,29 +53,33 @@ namespace Assingment_EFCore.Application.Services
             return true;
         }
 
-        public async Task<GetAllEmployeeResponse> GetAllEmployee()
+        public async Task<List<GetAllEmployeeResponse>> GetAllEmployee()
         {
             //var EmployeesSpec = EmployeeSpecifications.GetAllEmployeesSpec();
             //var employees = await _unitOfWork.Repository<Employee>().ListAsync(EmployeesSpec);
-            var employees = await _unitOfWork.Repository<Employee>().ListAllAsync();
-            return new GetAllEmployeeResponse() { Data = employees.Select(x => new EmployeeDTO(x)).ToList() };
+            //var employees = await _unitOfWork.Repository<Employee>().ListAllAsync();
+            //return new GetAllEmployeeResponse() { Data = employees.Select(x => new EmployeeDTO(x)).ToList() };
+            var employee = await _unitOfWork.EmployeeRepositoryAsync.GetEmployeeIncludeAsync();
+            return employee.Select(x => new GetAllEmployeeResponse
+            {
+                Id = x.Id,
+                Name = x.Name,
+                DepartmentName = x.Department.Name,
+                JoinedDate = x.JoinedDate,
+                SalaryAmount = x.Salary?.SalaryAmount
+            }).ToList();
         }
 
-        public Task<List<GetAllEmployeeResponse>> GetAllEmployeesWithDepartments()
+        public async Task<List<EmployeeWithDepartmentDTO>> GetEmployeesWithDepartments()
         {
-            throw new NotImplementedException();
+            var employee = await _unitOfWork.EmployeeRepositoryAsync.GetEmployeeIncludeAsync();
+            return employee.Select(x => new EmployeeWithDepartmentDTO
+            {
+                DepartmentName = x.Department.Name,
+                EmployeeName = x.Name,
+                EmployeeId = x.Id,
+            }).ToList();
         }
-
-        //public async Task<List<EmployeeWithDepartmentDTO>> GetAllEmployeesWithDepartments()
-        //{
-        //    var specification = new IncludeDepartmentSpecification();
-        //    var employeesWithDepartments = await _unitOfWork.Repository<Employee>().ListAsync(specification);
-
-        //    var employeesWithDepartmentsDTOs = employeesWithDepartments
-        //                                            .Select(x => new EmployeeWithDepartmentDTO(x))
-        //                                            .ToList();
-        //    return employeesWithDepartmentsDTOs;
-        //}
 
         public async Task<EmployeeResponse> GetEmployeeById(Guid id)
         {
@@ -97,6 +105,7 @@ namespace Assingment_EFCore.Application.Services
             employee.Name = request.Name;
             employee.DepartmentId = request.DepartmentId;
             employee.JoinedDate = request.JoinedDate;
+
             //employee = new Employee
             //{
             //    Id = id,
@@ -111,6 +120,11 @@ namespace Assingment_EFCore.Application.Services
             await _unitOfWork.SaveChangesAsync();
             _loggerService.LogInfo("Update employee successfully");
             return new EmployeeResponse() { Data = new EmployeeDTO(employee), Message = "Update employee successfully" };
+        }
+
+        public Task<IEnumerable<EmployeeProjectsDto>> GetEmployeesWithProjects()
+        {
+            throw new Exception();
         }
     }
 }

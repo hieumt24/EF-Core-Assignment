@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assingment_EFCore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a9ee2b09afe9fe32c86742d322f8b46022dcffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63070099e86c24961990212b0843ed389525f798")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assingment_EFCore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assingment_EFCore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
